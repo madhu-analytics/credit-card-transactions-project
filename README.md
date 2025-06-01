@@ -105,7 +105,7 @@ Below are the problem statements solved in this project:
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn – Madhu Uday]https://www.linkedin.com/in/madhu-uday-4904b2117/
-- 📧 Email: madhuudyadg@example.com
+- 📧 Email: madhuudyadg@gmail.com
 
 ---
 
